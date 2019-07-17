@@ -1,0 +1,4 @@
+﻿C:\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(2110,5): warning MSB3270: There was a mismatch between the processor architecture of the project being built "x86" and the processor architecture of the reference "System.Data.SQLite", "AMD64". This mismatch may cause runtime failures. Please consider changing the targeted processor architecture of your project through the Configuration Manager so as to align the processor architectures between your project and references, or take a dependency on references with a processor architecture that matches the targeted processor architecture of your project.
+  MyForm.cpp
+  DBUtils.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PPO_laba3.vcxproj -> F:\проекты_visual_studio\PPO_laba3\Debug\PPO_laba3.exe

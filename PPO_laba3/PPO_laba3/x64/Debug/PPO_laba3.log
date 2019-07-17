@@ -1,0 +1,15 @@
+﻿  DBUtils.cpp
+  MyForm.cpp
+F:\для gita\PPO_laba3\PPO_laba3\MyForm.h(263,27): warning C4101:  'e': unreferenced local variable
+F:\для gita\PPO_laba3\PPO_laba3\MyForm.h(283,27): warning C4101:  'e': unreferenced local variable
+F:\для gita\PPO_laba3\PPO_laba3\MyForm.h(309,27): warning C4101:  'e': unreferenced local variable
+F:\для gita\PPO_laba3\PPO_laba3\MyForm.h(330,27): warning C4101:  'e': unreferenced local variable
+F:\для gita\PPO_laba3\PPO_laba3\MyForm.h(349,27): warning C4101:  'e': unreferenced local variable
+F:\для gita\PPO_laba3\PPO_laba3\MyForm.h(361,27): warning C4101:  'e': unreferenced local variable
+F:\для gita\PPO_laba3\PPO_laba3\MyForm.h(375,27): warning C4101:  'e': unreferenced local variable
+F:\для gita\PPO_laba3\PPO_laba3\MyForm.h(390,27): warning C4101:  'e': unreferenced local variable
+  Generating Code...
+F:\для gita\PPO_laba3\PPO_laba3\MyForm.h(409,27): warning C4101:  'e': unreferenced local variable
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  DBUtils.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PPO_laba3.vcxproj -> F:\для gita\PPO_laba3\x64\Debug\PPO_laba3.exe
